@@ -1,0 +1,21 @@
+node_modules/
+npm-debug.log*
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+
+# Vite / build output
+web/dist/
+web/.vite/
+
+# Logs
+*.log
+
+# Env / secrets
+.env
+web/.env
+backend/.env
+
+# Misc
+.DS_Store
+Thumbs.db
