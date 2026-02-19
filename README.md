@@ -7,11 +7,13 @@ A full-stack micro marketplace app built with Node.js, Express, MongoDB, React (
 🔑 Authentication
 
 User registration & login (JWT based)
+
 Password hashing using bcrypt
 
 🛍️ Products
 
 Create, Read, Update, Delete products
+
 Search + pagination
 
 ❤️ Favorites
@@ -21,7 +23,9 @@ Add/remove favorite products
 🎨 UI
 
 Responsive design
+
 Clean product cards
+
 Smooth navigation
 
 ⚙️ Tech Stack
@@ -57,6 +61,7 @@ npm install
 npm run dev
 
 Seed Script
+
 Run the following to populate database:
 cd backend  
 node seed.js
@@ -64,10 +69,13 @@ node seed.js
 🚀 Live Links
 
 🌐 Frontend: https://micro-marketplace.vercel.app
+
 🔗 Backend API: https://marketplace-backend-ezd4.onrender.com
 
 🔐 Test Credentials
+
 Email: xyz@text.com  
+
 Password: xyz
 
 
