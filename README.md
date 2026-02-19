@@ -36,34 +36,51 @@ Database: MongoDB Atlas
 Mobile: React Native (Expo)
 
 🧪 API Endpoints
+
 POST /auth/register
+
 POST /auth/login
 
 GET /products
+
 POST /products
+
 GET /products/:id
+
 PUT /products/:id
+
 DELETE /products/:id
 
 POST /favorites/:id
+
 DELETE /favorites/:id
+
 GET /favorites
 
 ▶️ Run Locally
+
 Backend
+
 cd backend
+
 npm install
+
 npm run dev
 
 Frontend
+
 cd web
+
 npm install
+
 npm run dev
 
 Seed Script
 
 Run the following to populate database:
+
 cd backend  
+
 node seed.js
 
 🚀 Live Links
