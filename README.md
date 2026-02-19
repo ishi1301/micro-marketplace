@@ -2,16 +2,6 @@
 
 A full-stack micro marketplace app built with Node.js, Express, MongoDB, React (Vite), and React Native.
 
-🚀 Live Links
-
-🌐 Frontend: https://micro-marketplace.vercel.app
-🔗 Backend API: https://marketplace-backend-ezd4.onrender.com
-
-🔐 Test Credentials
-Email: xyz@text.com  
-Password: xyz
-
-
 ✨ Features
 
 🔑 Authentication
@@ -70,6 +60,15 @@ Seed Script
 Run the following to populate database:
 cd backend  
 node seed.js
+
+🚀 Live Links
+
+🌐 Frontend: https://micro-marketplace.vercel.app
+🔗 Backend API: https://marketplace-backend-ezd4.onrender.com
+
+🔐 Test Credentials
+Email: xyz@text.com  
+Password: xyz
 
 
 
